@@ -1,7 +1,7 @@
 {
   "name": "project1",
   "version": "0.1.0",
-  "homepage": "https://arijit-iam.github.io/new-react",
+  "homepage": "https://arijit-iam.github.io/my-react",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
